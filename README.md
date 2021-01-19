@@ -1,3 +1,3 @@
 # myProject
 
-Ici se trouve mes projets persos
+Ici se trouve mes projets PHP
