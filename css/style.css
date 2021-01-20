@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* #090C0D */
+
+/* header */
+
+a {
+    text-decoration: none;
+}
+
+.menu {
+    background-color:#090C0D;
+}
+
+.nav-item a {
+    color: #ffffff;
+}
+
+.nav-item a:hover {
+    color: #0585EB;
+}
+
+/* principal */ 
+
+.principal {
+    background-color: #e0e0e0;
+    height: 500px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    /*border-radius: 10px;*/
+}
+
+.recherche {
+    background-color: rgb(245, 245, 245);
+    margin-bottom: 1%;
+}
+
+/* footer */
+
+footer {
+    background-color:#090C0D;
+    color: #ffffff;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+h5 {
+    text-align: center;
+}
+
+article {
+    text-align: justify;
+}
+
+footer a {
+    color: #0585EB;
+}
+
+footer a:hover {
+    color: #ffffff;
+}
