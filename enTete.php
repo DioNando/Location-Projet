@@ -8,7 +8,7 @@
                 <a class="nav-link" href="voiture.php">Voiture</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="formulaire.php">Formulaire</a>
+                <a class="nav-link" href="formulaire.php">Formulaires</a>
             </li>
             <!--<li class="nav-item">
                 <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Exportation</a>

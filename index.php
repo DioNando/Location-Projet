@@ -52,21 +52,21 @@
                 <tr>
                     <th scope="row">1</th>
                     <td>Mark</td>
-                    <td>Otto</td>
+                    <td>10-10-17</td>
                     <td>10</td>
                     <td>12000</td>
                 </tr>
                 <tr>
                     <th scope="row">2</th>
                     <td>Jacob</td>
-                    <td>Thornton</td>
+                    <td>02-11-20</td>
                     <td>7</td>
                     <td>10000</td>
                 </tr>
                 <tr>
                     <th scope="row">3</th>
                     <td>Will</td>
-                    <td>San</td>
+                    <td>15-07-19</td>
                     <td>23</td>
                     <td>30000</td>
                 </tr>
